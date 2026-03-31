@@ -7,7 +7,6 @@ Cada decisão deve ser tomada com cautela, priorizando clareza, organização e 
 
 ---
 
-### 1) STACK (EDITÁVEL)
 
 ### 1) STACK (EDITÁVEL)
 
