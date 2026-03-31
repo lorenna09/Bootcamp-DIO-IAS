@@ -9,6 +9,8 @@ Cada decisão deve ser tomada com cautela, priorizando clareza, organização e 
 
 ### 1) STACK (EDITÁVEL)
 
+### 1) STACK (EDITÁVEL)
+
 * Runtime: Node.js (versão {NODE_VERSION})
 * Framework: {FRAMEWORK} (ex.: Express/Fastify/Nest)
 * Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
@@ -16,6 +18,14 @@ Cada decisão deve ser tomada com cautela, priorizando clareza, organização e 
 * Lint/format: {LINT_FORMAT} (ESLint/Prettier)
 * Banco: {DB} (Postgres/Mongo/etc.)
 * Infra: {DEPLOY} (Docker/Serverless/etc.)
+
+* Frontend: HTML5, CSS3, JavaScript (ES6+)
+* Framework Frontend (opcional): React/Vue/Next.js
+* Estilização avançada: Tailwind CSS / Sass / Bootstrap
+* Comunicação: REST API / GraphQL
+* Autenticação (opcional): JWT / OAuth
+
+* 
 
 **Regras de stack:**
 
