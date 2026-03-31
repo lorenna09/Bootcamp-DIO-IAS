@@ -41,7 +41,7 @@ Expressões recomendadas:
 4.Incluir escopo, assunções, riscos, validação e passos
 5.Sem implementação completa
 
-## FORMATO OBRIGATÓRIO DE RESPOSTA
+
 
 ## FORMATO OBRIGATÓRIO DE RESPOSTA (USO OBRIGATÓRIO)
 
